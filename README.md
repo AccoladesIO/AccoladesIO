@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **JavaScript, ReactJS**
 
-- 💬 Ask me about **JavaScript, ReactJS and TypeScript**
+- 💬 Ask me about **HTML/CSS/SCSS, JavaScript, ReactJS and TypeScript**
 
 - 📫 How to reach me **ononobiP@gmail.com**
 
