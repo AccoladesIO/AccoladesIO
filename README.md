@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=accoladesio" alt="accoladesio" /></a> </p>
 
-- 🔭 I’m currently working on **perfecting my Js knowledge**
+- 🔭 I’m currently working on **Being a better version of my self**
 
-- 🌱 I’m currently learning **TypeScript, and NextJS**
+- 🌱 I’m currently learning **Vue.JS**
 
-- 👯 I’m looking to collaborate on **JavaScript, ReactJS**
+- 👯 I’m looking to collaborate on **any open role as a frontend engineer**
 
 - 💬 Ask me about **HTML/CSS/SCSS, JavaScript and ReactJS**
 
