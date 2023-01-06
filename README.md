@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ononobi Praise Chukwuebuka</h1>
-<h3 align="center">A passionate frontend developer from Lagos, Nigeria.</h3>
+<h3 align="center">An ace Frontend developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=accoladesio" alt="accoladesio" /></a> </p>
 
