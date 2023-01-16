@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Being a better version of my self**
 
-- 🌱 I’m currently learning **Vue.JS**
+- 🌱 I’m currently learning **Vue.JS and Firebase**
 
 - 👯 I’m looking to collaborate on **any open role as a frontend engineer**
 
