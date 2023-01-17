@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ononobiP@gmail.com**
 
-- ⚡ Fun fact **I love Physics, Maths, Music and Food.**
+- ⚡ Fun fact **I love Physics, Maths, Critical Reasoning, Music and Food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
