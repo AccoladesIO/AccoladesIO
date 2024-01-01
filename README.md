@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **any open role as a frontend engineer**
 
-- 💬 Ask me about **HTML/CSS/SCSS, JavaScript and ReactJS.**
+- 💬 Ask me about **TypeScript, JavaScript and ReactJS.**
 
 - 📫 How to reach me **ononobiP@gmail.com**
 
