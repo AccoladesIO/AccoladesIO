@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Being a better version of my self.**
 
-- 🌱 I’m currently learning **Next.JS and Typescript**
+- 🌱 I’m currently learning **C++ and C#**
 
 - 👯 I’m looking to collaborate on **any open role as a frontend engineer**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ononobiP@gmail.com**
 
-- ⚡ Fun fact **I love Physics, Maths, Critical Reasoning, Music and Food.**
+- ⚡ Fun fact **I love Physics, Maths, Topology, Music and Food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
