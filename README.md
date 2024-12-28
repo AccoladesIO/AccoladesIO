@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ononobi Praise Chukwuebuka</h1>
-<h3 align="center">An ace Frontend developer.</h3>
+<h3 align="center">Software Engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=accoladesio" alt="accoladesio" /></a> </p>
 
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **C++ and C#**
 
-- 👯 I’m looking to collaborate on **any open role as a frontend engineer**
+- 👯 I’m looking to collaborate on **any open role as a software engineer**
 
-- 💬 Ask me about **TypeScript, JavaScript and ReactJS.**
+- 💬 Ask me about **Engineering and Development.**
 
 - 📫 How to reach me **ononobiP@gmail.com**
 
-- ⚡ Fun fact **I love Physics, Maths, Topology, Music and Food.**
+- ⚡ Fun fact **I love Physics, Maths, Topology, Music and Stage drama.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
